@@ -21,6 +21,17 @@
     <meta http-equiv="cleartype" content="on">
 
     <link rel="stylesheet" href="{{ site.url }}/css/main.css">
+    <script type="text/javascript">
+//<![CDATA[
+var currentURL=location.href;
+var str = currentURL;
+var res = str.replace("{{ site.url }}{{ page.url }}?u=", "");
+function changeLink(){
+    var decodedString = Base64.decode(res);
+    window.open(decodedString,'_self')
+}
+//]]>
+    </script>
     <!-- HTML5 Shiv and Media Query Support for IE -->
     <!--[if lt IE 9]>
       <script src="{{ site.url }}/js/vendor/html5shiv.min.js"></script>
