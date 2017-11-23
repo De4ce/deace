@@ -27,7 +27,7 @@ if(x=="3"){xxx="home-insurance-is-very-important-for-a-peaceful-life/"}
 if(x=="4"){xxx="one-must-choose-the-best-auto-insurance-company/"}
 if(x=="5"){xxx="how-get-free-insurance-quotes/"}
 if(x=="6"){xxx="are-you-a-higher-risk-health-insurance-applicant/"}
-if(x=="7"){xxx="who-else-wants-low-costs-auto-insurance/"}a_to_ve[i].href="http://link.azedl.com/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="7"){xxx="who-else-wants-low-costs-auto-insurance/"}a_to_ve[i].href="http://link.azedl.com/"+xxx+"?u="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
