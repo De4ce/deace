@@ -25,7 +25,7 @@
 //<![CDATA[
 var currentURL=location.href;
 var str = currentURL;
-var res = str.replace("{{ site.url }}{{ page.url }}?u=", "");
+var res = str.replace("{{ site.url }}{{ page.url }}/?u=", "");
 function changeLink(){
     var decodedString = Base64.decode(res);
     window.open(decodedString,'_self')
