@@ -29,5 +29,6 @@ function a_to_fa()
 </script>
 
 <script type="text/javascript">
- document.write("<span style=\"cursor: pointer;text-align: center;\" onclick=\"changeLink();\">Klik di sini untuk lanjut ke link tujuan!</span>");
+if (currentURL.contains("?u=")) {
+document.write("<span style=\"cursor: pointer;text-align: center;\" onclick=\"changeLink();\">Klik di sini untuk lanjut ke link tujuan!</span>");}
 </script>
