@@ -19,19 +19,10 @@
     <meta name="MobileOptimized" content="320">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="cleartype" content="on">
+    <meta name="poptm" content="695b7e3f86b337e873a98a22a21381d9" />
 
     <link rel="stylesheet" href="{{ site.url }}/css/main.css">
-    <script type="text/javascript">
-//<![CDATA[
-var currentURL=location.href;
-var str = currentURL;
-var res = str.replace("{{ site.url }}{{ page.url }}?u=", "");
-function changeLink(){
-    var decodedString = Base64.decode(res);
-    window.open(decodedString,'_blank')
-}
-//]]>
-    </script>
+    {% if page.safelink == true %}{% include safelink-head.html}{% endif %}
     <!-- HTML5 Shiv and Media Query Support for IE -->
     <!--[if lt IE 9]>
       <script src="{{ site.url }}/js/vendor/html5shiv.min.js"></script>
@@ -49,11 +40,8 @@ function changeLink(){
       {{ content }}
       {% include footer.html %}
     </div>
-    <script type="text/javascript" data-cfasync="false">eval(function(p,a,c,k,e,d){e=function(c){return c.toString(36)};if(!''.replace(/^/,String)){while(c--){d[c.toString(a)]=k[c]||c.toString(a)}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('!1(){2 e=d;2 t,o=["//g.s.j/3.5","//l.h/3.5",""],n=0,r=1(){f(""!=o[n]){t=e.4.c("6"),t.b="7/8",t.9=!0;2 a=e.4.q("6")[0];t.i=o[n],t.k=1(){n++,r()},a.m.p(t,a)}};r()}();',30,30,'|function|var|56921|document|js|script|text|javascript|async||type|createElement|window||if|code|ml|src|com|onerror|onerror|parentNode|||insertBefore|getElementsByTagName||poptm|'.split('|'),0,{}))
-    </script>
     <script src="{{ site.url }}/js/vendor/jquery-1.9.1.min.js"></script>
     <script src="{{ site.url }}/js/main.js"></script>
-
   </body>
 
 </html>

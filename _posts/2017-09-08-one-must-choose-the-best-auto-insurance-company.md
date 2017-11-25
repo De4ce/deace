@@ -1,6 +1,7 @@
 ---
 layout: article
 title: "One Must Choose The Best Auto Insurance Company"
+safelink: true
 image:
   teaser: auto-insurance.jpg
 ---

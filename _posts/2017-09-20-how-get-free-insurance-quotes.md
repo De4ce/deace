@@ -1,6 +1,7 @@
 ---
 layout: article
 title: "How to Get Free Insurance Quotes"
+safelink: true
 image:
   teaser: free-insurance-quotes.jpg
 ---

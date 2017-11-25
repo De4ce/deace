@@ -1,6 +1,7 @@
 ---
 layout: article
 title: "Tips to Increase Benefits From Insurance"
+safelink: true
 image:
   teaser: increase-benefits.jpg
 ---

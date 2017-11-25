@@ -1,6 +1,7 @@
 ---
 layout: article
 title: "Home Insurance is Very Important for a Peaceful Life"
+safelink: true
 image:
   teaser: home-insurance.jpg
 ---

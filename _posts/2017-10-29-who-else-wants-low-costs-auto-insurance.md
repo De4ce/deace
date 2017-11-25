@@ -1,6 +1,7 @@
 ---
 layout: article
 title: "Who Else Wants Low Cost Auto Insurance?"
+safelink: true
 image:
   teaser: car-insurance.jpg
 ---

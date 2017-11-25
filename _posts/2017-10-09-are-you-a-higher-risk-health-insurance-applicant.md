@@ -1,6 +1,7 @@
 ---
 layout: article
 title: "Are You A Higher Risk Health Insurance Applicant?"
+safelink: true
 image:
   teaser: risk-health-insurance.jpg
 ---

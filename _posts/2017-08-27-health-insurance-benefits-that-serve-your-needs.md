@@ -1,6 +1,7 @@
 ---
 layout: article
 title: "Health Insurance Benefits That Serve Your Needs"
+safelink: true
 image:
   teaser: health-benefits.jpg
 ---
