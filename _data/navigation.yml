@@ -4,7 +4,15 @@
   url:
   excerpt:
   image:
+- title: Opinions
+  url: /opinions/
+  excerpt: All articles about opinions.
+- title: Tips
+  url: /tips/
+  excerpt: Read the articles about tips from us.
 - title: About
   url: /about/
+  excerpt: All about Us.
 - title: Terms
   url: /terms/
+  excerpt: Terms of use of this site.

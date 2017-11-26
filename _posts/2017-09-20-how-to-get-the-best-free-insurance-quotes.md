@@ -22,11 +22,11 @@ You just have to click the mouse button and in short period of time you’ll get
 
 You have to keep all these points while going through the quotes and also you should search for the available discounts that you can get through it. These are as follows-
 
-1) The insurance company provides you with discount in the price that is taken at parking.
+1. The insurance company provides you with discount in the price that is taken at parking.
 
-2) Those people who are well experienced and having good skills in driving can get the discounts.
+2. Those people who are well experienced and having good skills in driving can get the discounts.
 
-3) Also you are provided with some kind of safety devices.
+3. Also you are provided with some kind of safety devices.
 
 Also it is not necessary that you’ll be getting cheapest plan and also it will be the finest one. Many companies provide at cheap rate but the coverage provided is less in that. 
 
