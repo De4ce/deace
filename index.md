@@ -1,6 +1,7 @@
 ---
 layout: archive
 permalink: /
+adsense: true
 ---
 
 <div class="tiles">

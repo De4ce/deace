@@ -1,7 +1,9 @@
 ---
 layout: article
 title: "5 Ways to Increase Benefits From Insurance"
+categories: tips
 safelink: true
+adsense: true
 image:
   teaser: increase-benefits.jpg
 ---

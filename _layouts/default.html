@@ -19,14 +19,7 @@
     <meta name="MobileOptimized" content="320">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="cleartype" content="on">
-    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-    <script>
-      (adsbygoogle = window.adsbygoogle || []).push({
-      google_ad_client: "ca-pub-5443006636516481",
-      enable_page_level_ads: true
-      });
-    </script>
-    
+    {% if page.adsense == true %}{% include adsense.html %}{% endif %}
     <link rel="stylesheet" href="{{ site.url }}/css/main.css">
     {% if page.safelink == true %}{% include safelink-head.html %}{% endif %}
     <!-- HTML5 Shiv and Media Query Support for IE -->
@@ -47,7 +40,6 @@
       {% include footer.html %}
     </div>
     
-    {% include ads-popunder.html %}
     <script src="{{ site.url }}/js/vendor/jquery-1.9.1.min.js"></script>
     <script src="{{ site.url }}/js/main.js"></script>
   </body>

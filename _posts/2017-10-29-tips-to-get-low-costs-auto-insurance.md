@@ -1,7 +1,9 @@
 ---
 layout: article
 title: "Tips to Get Low Cost Auto Insurance"
+categories: tips
 safelink: true
+adsense: true
 image:
   teaser: car-insurance.jpg
 ---
