@@ -6,7 +6,7 @@ adsense: true
 ---
 
 <div class="tiles">
-{% for post in site.categories.opinions %}
+{% for post in site.categories.tips %}
 	{% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
