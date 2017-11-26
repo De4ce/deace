@@ -1,9 +1,9 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
-  image:
+#- title:
+#  url:
+#  excerpt:
+#  image:
 - title: Opinions
   url: /opinions/
   excerpt: All articles about opinions.
