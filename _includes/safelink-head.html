@@ -4,8 +4,9 @@ var currentURL=location.href;
 var str = currentURL;
 var res = str.replace("{{ site.url }}{{ page.url }}?u=", "");
 function changeLink(){
+	var gourl = "http://idsly.com/st/?api=4d895abc5ffd4edb6f33bde5acd9e18d2bb83735&url=";
     var decodedString = Base64.decode(res);
-    window.open(decodedString,'_self')
+    window.open(gourl+decodedString,'_self')
 }
 //]]>
 </script>
