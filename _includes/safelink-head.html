@@ -5,8 +5,7 @@ var str = currentURL;
 var res = str.replace("{{ site.url }}{{ page.url }}?u=", "");
 function changeLink(){
     var decodedString = Base64.decode(res);
-    var removehttp = decodedString.replace(/'http://'|'https://'/gi,"")
-    window.open(removehttp,'_self')
+    window.open(decodedString,'_self')
 }
 //]]>
 </script>
