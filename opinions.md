@@ -2,7 +2,6 @@
 layout: archive
 permalink: /opinions/
 title: Opinions
-adsense: true
 ---
 
 <div class="tiles">

@@ -3,7 +3,6 @@ layout: article
 title: "How to Get the Best Free Insurance Quotes"
 categories: tips
 safelink: true
-adsense: true
 image:
   teaser: free-insurance-quotes.jpg
 ---

@@ -3,7 +3,6 @@ layout: article
 title: "Reasons Why Home Insurance is Important for Your Life"
 categories: opinions
 safelink: true
-adsense: true
 image:
   teaser: home-insurance.jpg
 ---

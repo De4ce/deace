@@ -2,7 +2,6 @@
 layout: archive
 permalink: /tips/
 title: Tips
-adsense: true
 ---
 
 <div class="tiles">

@@ -3,7 +3,6 @@ layout: article
 title: "Health Insurance Benefits That Help Your Life"
 categories: opinions
 safelink: true
-adsense: true
 image:
   teaser: health-benefits.jpg
 ---

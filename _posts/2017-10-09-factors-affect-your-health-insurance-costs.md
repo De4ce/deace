@@ -3,7 +3,6 @@ layout: article
 title: "Factors That Affect Your Health Insurance Costs"
 categories: opinions
 safelink: true
-adsense: true
 image:
   teaser: risk-health-insurance.jpg
 ---

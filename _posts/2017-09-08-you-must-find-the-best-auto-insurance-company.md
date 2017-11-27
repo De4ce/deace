@@ -3,7 +3,6 @@ layout: article
 title: "You Must Find the Best Auto Insurance Company"
 categories: opinions
 safelink: true
-adsense: true
 image:
   teaser: auto-insurance.jpg
 ---
